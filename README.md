@@ -1,24 +1,24 @@
-<h1 align="center">👋 Hi, I'm Yan Victor Gomes Marim</h1>
+<h1 align="center"> Hi, I'm Yan Victor Gomes Marim</h1>
 
 <p align="center">
-  🎓 Software Engineering Student at <b>UFMS</b> (Federal University of Mato Grosso do Sul)  
-  💻 Passionate about Web Development, Software Testing & Agile Practices  
-  🚀 Always learning and building something new!
+   Software Engineering Student at <b>UFMS</b> (Federal University of Mato Grosso do Sul)  
+   Passionate about Web Development, Software Testing & Agile Practices  
+   Always learning and building something new!
 </p>
 
 ---
 
-### 🧠 About Me
+###  About Me
 
-- 🧑‍💻 Currently in my **4th semester** of Software Engineering  
-- 🌱 Learning **React.js**, **Node.js**, and **SQL**  
-- 🧩 Experience with **requirements analysis**, **manual & automated testing**, **Figma prototyping**, and **agile methodologies** (Scrum & Kanban)  
-- 🧪 Used **Cypress** for test automation and **JIRA** for issue tracking  
-- 🤝 Open to collaborating on academic or open-source projects  
+- Currently in my **4th semester** of Software Engineering  
+- Learning **React.js**, **Node.js**, and **SQL**  
+- Experience with **requirements analysis**, **manual & automated testing**, **Figma prototyping**, and **agile methodologies** (Scrum & Kanban)  
+- Used **Cypress** for test automation and **JIRA** for issue tracking  
+- Open to collaborating on academic or open-source projects  
 
 ---
 
-### ⚙️ Tech Stack
+###  Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -40,9 +40,9 @@
 
 ---
 
-### 📚 Education
+###  Education
 
-🎓 **Federal University of Mato Grosso do Sul (UFMS)**  
+ **Federal University of Mato Grosso do Sul (UFMS)**  
 Bachelor’s in **Software Engineering** — *2024 – 2027*  
 
 **Main subjects:**  
@@ -51,24 +51,24 @@ Object-Oriented Programming · Software Design · Web Programming
 
 ---
 
-### 💼 Experience
+###  Experience
 
 **Administrative Assistant (Apprentice)**  
-📍 *SEJUSP – Campo Grande/MS (2022 – 2023)*  
+ *SEJUSP – Campo Grande/MS (2022 – 2023)*  
 > Provided administrative support and organized documents, developing strong skills in **organization**, **communication**, and **traceability**, applicable to software engineering practices.
 
 ---
 
-### 🧩 Academic Projects & Involvement
+###  Academic Projects & Involvement
 
-- 🎯 Member of **PET-Saúde e Tecnologia**, focusing on software development, requirements, and testing  
-- 🧠 Responsible for standardizing naming conventions and versioning in team projects  
-- ⚙️ Collaborated on **multidisciplinary projects** involving front-end, databases, and agile development  
-- 🧪 Created **test plans**, performed **manual tests**, and automated tests using **Cypress**  
+-  Member of **PET-Saúde e Tecnologia**, focusing on software development, requirements, and testing  
+-  Responsible for standardizing naming conventions and versioning in team projects  
+-  Collaborated on **multidisciplinary projects** involving front-end, databases, and agile development  
+-  Created **test plans**, performed **manual tests**, and automated tests using **Cypress**  
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GomesYV&show_icons=true&theme=tokyonight" alt="Yan's GitHub stats" height="160"/>
@@ -81,11 +81,11 @@ Object-Oriented Programming · Software Design · Web Programming
 
 ---
 
-### 📫 Contact Me
+###  Contact Me
 
-📧 **Email:** [yanvictorm79@gmail.com](mailto:yanvictorm79@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/YVGomesM](https://www.linkedin.com/in/YVGomesM)  
+ **Email:** [yanvictorm79@gmail.com](mailto:yanvictorm79@gmail.com)  
+ **LinkedIn:** [linkedin.com/in/YVGomesM](https://www.linkedin.com/in/YVGomesM)  
 
 ---
 
-<h3 align="center">⭐ “Always learning, always improving.”</h3>
+<h3 align="center"> “Always learning, always improving.”</h3>
