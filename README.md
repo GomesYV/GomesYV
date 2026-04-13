@@ -10,7 +10,7 @@
 
 ###  About Me
 
-- Currently in my **4th semester** of Software Engineering  
+- Currently in my **5th semester** of Software Engineering  
 - Learning **React.js**, **Node.js**, and **SQL**  
 - Experience with **requirements analysis**, **manual & automated testing**, **Figma prototyping**, and **agile methodologies** (Scrum & Kanban)  
 - Used **Cypress** for test automation and **JIRA** for issue tracking  
