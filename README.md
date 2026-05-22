@@ -1,73 +1,28 @@
 <h1 align="center">Hi, I'm Yan Victor Gomes Marim</h1>
 
 <p align="center">
-QA Intern • Software Engineering Student at <b>UFMS</b> <br>
-Focused on Software Quality, Manual Testing, Requirements Validation, and Test Automation.
+Software Engineering Student at <b>UFMS</b> <br>
+QA Intern • Interested in Software Testing, Requirements Engineering & Web Development <br>
+Always learning and building better software.
 </p>
+
+---
+
+### About Me
+
+- Currently in my **5th semester** of Software Engineering
+- Working as a **QA Intern**, performing **manual testing**, **requirements validation**, and **bug tracking**
+- Learning **Cypress** and improving skills in **test automation**
+- Experience with **test cases**, **exploratory testing**, and **regression testing**
+- Familiar with **Agile methodologies** (**Scrum & Kanban**)
+- Knowledge in **SQL**, **software requirements**, and **web development**
+- Open to collaboration on academic and software projects
+
+---
+
+### Tech Stack
 
 <p align="center">
-  <a href="mailto:yanvictorm79@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/YVGomesM">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin"/>
-  </a>
-</p>
-
----
-
-## About Me
-
-Software Engineering student (5th semester) with practical experience in **Software Quality Assurance**, working with **manual testing**, **requirements validation**, **test case creation**, and **defect tracking** in agile environments.
-
-Currently developing skills in **test automation using Cypress**, while strengthening knowledge in software engineering, databases, and web development.
-
-Interested in opportunities involving:
-
-- Software Quality Assurance (QA)
-- Manual Testing
-- Test Automation
-- Requirements Engineering
-- Software Development
-
----
-
-## Core Skills
-
-- Manual Testing
-- Test Case Design
-- Exploratory Testing
-- Regression Testing
-- Requirements Validation
-- Bug Tracking & Documentation
-- Agile Methodologies (Scrum / Kanban)
-- Cypress (Initial Automation)
-- Azure DevOps
-- SQL
-- Git / GitHub
-
----
-
-## Tech Stack
-
-### Testing & QA
-
-<p>
-
-<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Manual_Testing-0052CC?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Test_Cases-6A5ACD?style=for-the-badge"/>
-
-</p>
-
-### Development
-
-<p>
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
@@ -75,84 +30,71 @@ Interested in opportunities involving:
 
 <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-
-</p>
-
-### Tools
-
-<p>
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Node.js-Learning-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 </p>
 
 ---
 
-## Professional Experience
+### Education
+
+**Federal University of Mato Grosso do Sul (UFMS)**  
+Bachelor's Degree in **Software Engineering** *(2024 – 2027)*
+
+Main subjects:
+
+Requirements Engineering · Databases · Software Architecture ·  
+Object-Oriented Programming · Human-Computer Interaction · Web Development
+
+---
+
+### Experience
 
 ### QA Intern
 **Marlin** *(2026 – Present)*
 
-- Executed manual tests to validate functionalities, workflows, and business rules
-- Created and executed test cases based on requirements and acceptance criteria
-- Performed exploratory and regression testing during development cycles
-- Identified, documented, and tracked defects using **Azure DevOps**
-- Supported requirements validation and testing scenario analysis
-- Worked in **Scrum environments**, participating in agile ceremonies and software delivery cycles
-- Developed initial automated tests using **Cypress**
+> Executing manual tests, creating test cases, validating requirements, tracking defects with **Azure DevOps**, performing exploratory/regression testing, and gaining experience with **Cypress automation** in agile environments.
 
 ---
 
 ### Administrative Assistant (Apprentice)
 **SEJUSP – Campo Grande/MS** *(2022 – 2023)*
 
-- Organized documents and administrative processes
-- Developed attention to detail, traceability, and organizational skills applicable to software quality processes
+> Developed organization, traceability, and attention to detail skills applicable to software quality processes.
 
 ---
 
-## Academic Activities & Projects
+### Academic Projects & Activities
 
-### PET-Saúde e Tecnologia
-
-- Participated in multidisciplinary projects involving software processes and data organization
-- Supported software-related activities focused on requirements and collaboration
-
-### Software Engineering Projects
-
-- Developed test cases and executed manual testing
-- Created requirements documentation using UML and use cases
-- Participated in agile teams using Scrum and Kanban
-- Applied versioning and organizational practices in academic projects
+- Member of **PET-Saúde e Tecnologia**, contributing to software-related activities and multidisciplinary projects
+- Created **test cases**, executed **manual testing**, and validated software requirements
+- Participated in agile teams using **Scrum** and **Kanban**
+- Worked with **UML**, requirements documentation, and software engineering practices
+- Supported organization and versioning processes in academic projects
 
 ---
 
-## Education
-
-**Federal University of Mato Grosso do Sul (UFMS)**  
-Bachelor's Degree in **Software Engineering** *(2024 – 2027)*
-
-Relevant topics:
-
-- Requirements Engineering
-- Databases
-- Software Architecture
-- Object-Oriented Programming
-- Human-Computer Interaction
-- Web Development
-
----
-
-## GitHub Statistics
+### GitHub Stats
 
 <p align="center">
 
@@ -164,24 +106,22 @@ Relevant topics:
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=GomesYV&theme=tokyonight" height="160"/>
+<img src="https://streak-stats.demolab.com/?user=GomesYV&theme=tokyonight" height="160"/>
 
 </p>
 
 ---
 
-## Contact
+### Contact Me
 
-Email: **yanvictorm79@gmail.com**
+**Email:**  
+yanvictorm79@gmail.com
 
-LinkedIn:  
+**LinkedIn:**  
 https://linkedin.com/in/YVGomesM
-
-GitHub:  
-https://github.com/GomesYV
 
 ---
 
 <h3 align="center">
-Focused on software quality, testing, and continuous improvement.
+Always learning, improving processes, and building better software.
 </h3>
