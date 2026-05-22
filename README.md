@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>QA Intern @ Marlin</b> · Software Engineering Student at UFMS<br/>
-  Manual & Automated Testing · Agile Environments · Always evolving
+  Manual Testing · Requirements Validation · Agile Environments
 </p>
 
 <p align="center">
@@ -19,33 +19,37 @@
 
 ---
 
-###  About Me
+### About Me
 
 I'm a **Software Engineering student (5th semester at UFMS)** currently working as a **QA Intern at Marlin**, where I work on manual testing, exploratory and regression test cycles, and bug tracking in an agile (Scrum) environment.
 
-My day-to-day involves writing and executing test cases based on acceptance criteria, documenting defects in **Azure DevOps**, and expanding my skills in test automation using **Cypress**.. I also have a solid base in web development and databases, which helps me understand the full software development cycle — not just the testing side.
+My day-to-day involves writing and executing test cases based on acceptance criteria, documenting defects in **Azure DevOps**, and expanding my skills in test automation using **Cypress**. I also have a solid base in web development and databases, which helps me understand the full software development cycle — not just the testing side.
 
 I care about quality, clear documentation, and continuous learning.
 
 ---
 
-###  Experience
+### Experience
 
 **QA Intern — Marlin** *(2026 – Present)*
+
 - Execution of manual, exploratory, and regression tests
 - Test case creation based on acceptance criteria and feature specs
 - Bug identification, documentation, and tracking via **Azure DevOps**
 - Requirements validation and test scenario analysis
 - Active participation in Scrum ceremonies and development cycles
-- Initial hands-on experience with **Cypress** for automating simple flows
+- Hands-on experience with **Cypress** for automating simple testing flows
+
+---
 
 **Administrative Assistant (Apprentice) — SEJUSP** *(2022 – 2023)*
+
 - Document organization with focus on traceability and standardization
 - Developed attention to detail and structured work habits
 
 ---
 
-###  Tech Stack
+### Tech Stack
 
 **QA & Testing**
 
@@ -75,7 +79,7 @@ I care about quality, clear documentation, and continuous learning.
 
 ---
 
-###  Education
+### Education
 
 **Federal University of Mato Grosso do Sul — UFMS**  
 Bachelor's in **Software Engineering** · *2024 – 2027* (5th semester)
@@ -84,17 +88,17 @@ Key subjects: Requirements Engineering · Databases · OOP · Web Programming ·
 
 ---
 
-###  Academic Projects & Involvement
+### Academic Projects & Involvement
 
--  Created test plans, executed manual tests, and documented bugs in academic software projects
--  Collaborated in **squads using Scrum and Kanban**, covering development, testing, and workflow organization
--  Worked on **UML diagrams, use cases, and state flows** for requirements documentation and functional validation
--  Standardized naming conventions and file versioning to ensure traceability across team projects
--  Participated in **PET-Saúde e Tecnologia** — data analysis and support for tech-driven health solutions
+- Created test plans, executed manual testing, and documented defects in academic software projects
+- Collaborated in **squads using Scrum and Kanban**, covering development, testing, and workflow organization
+- Worked on **UML diagrams, use cases, and state flows** for requirements documentation and functional validation
+- Standardized naming conventions and file versioning to ensure traceability across team projects
+- Participated in **PET-Saúde e Tecnologia** — data analysis and support for tech-driven health solutions
 
 ---
 
-###  GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GomesYV&show_icons=true&theme=tokyonight&hide_border=true" height="155"/>
@@ -107,6 +111,4 @@ Key subjects: Requirements Engineering · Databases · OOP · Web Programming ·
 
 ---
 
-<p align="center">
-<i>Building reliable software through quality, testing, and continuous learning.</i>
-</p>
+<p align="center"><i>Building reliable software through quality, testing, and continuous learning.</i></p>
