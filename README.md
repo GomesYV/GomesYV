@@ -23,7 +23,7 @@
 
 I'm a **Software Engineering student (5th semester at UFMS)** currently working as a **QA Intern at Marlin**, where I work on manual testing, exploratory and regression test cycles, and bug tracking in an agile (Scrum) environment.
 
-My day-to-day involves writing and executing test cases based on acceptance criteria, documenting defects in **Azure DevOps**, and taking my first steps into test automation with **Cypress**. I also have a solid base in web development and databases, which helps me understand the full software development cycle — not just the testing side.
+My day-to-day involves writing and executing test cases based on acceptance criteria, documenting defects in **Azure DevOps**, and expanding my skills in test automation using **Cypress**.. I also have a solid base in web development and databases, which helps me understand the full software development cycle — not just the testing side.
 
 I care about quality, clear documentation, and continuous learning.
 
@@ -107,4 +107,6 @@ Key subjects: Requirements Engineering · Databases · OOP · Web Programming ·
 
 ---
 
-<p align="center"><i>"Quality is not an act, it is a habit."</i></p>
+<p align="center">
+<i>Building reliable software through quality, testing, and continuous learning.</i>
+</p>
