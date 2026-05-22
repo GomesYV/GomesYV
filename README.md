@@ -1,8 +1,8 @@
 <h1 align="center">Yan Victor Gomes Marim</h1>
 
 <p align="center">
-  <b>QA Intern @ Marlin</b> · Software Engineering Student at UFMS<br/>
-  Manual Testing · Requirements Validation · Agile Environments
+  <b>QA Intern @ Marlin · Software Engineering Student at UFMS<br/>
+  Software Quality · Manual Testing · Agile Environments
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@ I'm a **Software Engineering student (5th semester at UFMS)** currently working 
 
 My day-to-day involves writing and executing test cases based on acceptance criteria, documenting defects in **Azure DevOps**, and expanding my skills in test automation using **Cypress**. I also have a solid base in web development and databases, which helps me understand the full software development cycle — not just the testing side.
 
-I care about quality, clear documentation, and continuous learning.
+I enjoy understanding how systems work, identifying issues, and contributing to more reliable software.
 
 ---
 
